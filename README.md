@@ -5,10 +5,7 @@ It supports user authentication, one-to-one chat, group chat, and real-time mess
 
 ---
 
-## 🚀 Live Demo
 
-- Frontend: https://your-frontend.vercel.app  
-- Backend API: https://your-backend.onrender.com  
 
 ---
 
