@@ -95,23 +95,31 @@ A full-stack real-time chat platform built using the **MERN Stack** and **Socket
 
 ### 🏠 Home Page
 
-(Add Screenshot Here)
+<img width="1906" height="882" alt="Screenshot 2026-06-29 102150" src="https://github.com/user-attachments/assets/88d3bc86-1032-4b35-9d26-563f58c811d2" />
+
 
 ### 💬 Private Chat
 
-(Add Screenshot Here)
+<img width="1906" height="882" alt="Screenshot 2026-06-29 102150" src="https://github.com/user-attachments/assets/81c07e9f-588a-4510-ad43-0fe879e60fbc" />
+
 
 ### 👥 Group Chat
 
-(Add Screenshot Here)
+<img width="1400" height="912" alt="Screenshot 2026-06-29 102211" src="https://github.com/user-attachments/assets/18bd14e6-4491-430f-a03b-b7077e8f5b2c" />
 
-### 🔔 Notifications
+### Create Group
 
-(Add Screenshot Here)
+<img width="765" height="758" alt="Screenshot 2026-06-29 102341" src="https://github.com/user-attachments/assets/b12801e9-525d-4b82-b323-adb9ccd60816" />
+
+
+## Group information
+
+<img width="1901" height="897" alt="Screenshot 2026-06-29 102222" src="https://github.com/user-attachments/assets/4a6248b2-2b39-45d2-91ee-c97e25fc7a44" />
+here u can remove as well as can delete the chat in the group if u are admin
 
 ### ⚙️ Profile Management
 
-(Add Screenshot Here)
+<img width="758" height="282" alt="Screenshot 2026-06-29 102252" src="https://github.com/user-attachments/assets/8523b16b-533d-4cd4-9ded-771f62234241" />
 
 ---
 
